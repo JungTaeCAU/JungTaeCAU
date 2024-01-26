@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Welcome%20to%20JT's%20GitHub!&fontSize=50&fontAlign=64&fontAlignY=40)
 ## Features
 - I'am currently working on [INTHESMART](https://www.itsnuh.com/) since 2022 April 1st.
-- I worked as Developer and Project Manager.
+- I worked as Developer and Project Manager of [XAIMED](https://www.ixaimed.com/product) and [VITCAL](https://www.vitcal.com/product).
 ## Once I've Used
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
