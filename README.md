@@ -18,7 +18,7 @@
 - Arduino & Protopie 이용한 유저 인터랙션 목업 제작
 
 ## ✨ Feature Projects
-### [🏆 뉴아인 모바일 앱 백엔드]
+### 🏆 뉴아인 모바일 앱 백엔드
 - **설명:** Fargate 기반으로 구축된 뉴아인의 모든 앱이 사용하는 공통 API 서버 입니다.
 - **주요 기능:** 로그인/회원가입, 기기 사용 기록/분석, PDF리포트, IoT데이터스트림
 - **기여 내용:**
@@ -31,7 +31,7 @@
     - AWS Knowledge base Bedrock 활용한 유저 헬퍼 챗봇 구현
 - **기술 스택:** `Python`, `FastAPI`, `MySQL`, `DynamoDB`, `Codepipeline`, `Lambda`, `NCLOUD`, `IoT Core`, `Bedrock`
 
-### [🥈 뉴아인 통합 대시보드]
+### 🥈 뉴아인 통합 대시보드
 - **설명:** 오픈소스 BI 툴인 Apache Superset을 EC2 환경에 배포하여 기기 사용 기록 및 데이터를 로깅할 수 있는 대시보드 구현
 - **주요 기능:** 기기 사용 기록 분석, 1주일간 가장 많이 사용한 기기 목록, 특정 기기 별 사용 기록 데이터 등
 - **기여 내용:**
